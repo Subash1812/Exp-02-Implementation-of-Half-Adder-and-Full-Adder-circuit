@@ -43,6 +43,7 @@ RegisterNumber: 22009106
 */
 ```
 half adder verilog code:
+
 module half_adder(a, b, s, c);
 input a, b;
 output s, c;
